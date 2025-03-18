@@ -1,0 +1,41 @@
+[
+  {
+    "redaction": "En tant que developpeur #PHP et #JAVASCRIPT, je suis développeur passionné spécialisé dans les technologies web de #Laravel et #Vue #Js. Avec solide éxperience dans la création d'application web robustes et convivales, je m'efforce l'efficacité de #Laravel côte serveur avec la fluidite de #Vue #Js côté client. Explorez mon portfolio pour découvrir mes projets innovants et ma maîtrise dans cette domaine.",
+    "apropos": [
+      {
+        "Adresse": "Antananarivo 101, Madagascar",
+        "icon": "fas fa-map-marker-alt"
+      },
+      {
+        "Email": "randriatsilavinafrederic0@gmail.com",
+        "icon": "fas fa-envelope"
+      },
+      {
+        "Téléphone": "(+261) 33 45 188 89",
+        "icon": "fas fa-phone"
+      }
+    ],
+    "reseaux": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "https://www.facebook.com/frederic.randriatsilavina"
+      },
+      {
+        "icon": "fab fa-instagram",
+        "url": "https://twitter.com/FredericRandri1"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "https://twitter.com/FredericRandri1"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "https://www.linkedin.com/in/randria-tsilavina-eric/"
+      },
+      {
+        "icon": "fab fa-github",
+        "url": "https://github.com/Fredericra"
+      }
+    ]
+  }
+]

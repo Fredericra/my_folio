@@ -5,8 +5,22 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  .head {
+    display: none;
+  }
+}
+
 @layer components {
   .ecran {
     @apply grid sm:grid-cols-1 md:grid-cols-12 m-0 p-0;
+  }
+  .btn-indigo {
+    @apply bg-linear-to-b w-100 h-100 from-indigo-900 via-gray-800 to-purple-700 
+    rounded-md text-white hover:shadow-lg shadow-gray-400 hover:from-purple-700 hover:to-indigo-900 hover:via-none hover:rounded-2xl transform duration-1000;
+  }
+  .btn-blue {
+    @apply bg-linear-to-b w-100 h-100 from-blue-900 via-cyan-800 to-purple-700 
+    rounded-md text-white hover:shadow-lg shadow-gray-400 hover:from-purple-700 hover:to-blue-900 hover:via-none hover:rounded-2xl transform duration-1000;
   }
 }
