@@ -22,10 +22,10 @@ const { exper, titre } = props
       <div class="pt-8 pb-8">
         <Titre titre="Experience" />
       </div>
-      <div class="mt-2">
+      <div class="mt-2 space-y-10">
         <div class="" v-for="(value, index) in exper" :key="index">
           <div class="">
-            <CardExpert :card="value" />
+            <CardExpert class="p-3 transition duration-1000" :card="value" />
           </div>
         </div>
       </div>
@@ -33,3 +33,13 @@ const { exper, titre } = props
     <div class="col-span-4"></div>
   </div>
 </template>
+<style scoped>
+.card {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 5px 10px 1px var(--indigo-950);
+}
+.card:hover {
+  box-shadow: -5px -10px 1px var(--indigo-950);
+}
+</style>

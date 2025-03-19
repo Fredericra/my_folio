@@ -18,7 +18,7 @@ console.log(apropos)
         <div class="col-span-1 text-center text-white">
           <i :class="value.icon"></i>
         </div>
-        <div class="col-span-1 text-left -translate-x-20">
+        <div class="col-span-1 text-left">
           <p class="text-transparent bg-clip-text bg-linear-to-b to-yellow-950 from-indigo-950">
             <span class="" v-if="index === 0">{{ value.Adresse }}</span>
             <span class="" v-else-if="index === 1">{{ value.Email }}</span>

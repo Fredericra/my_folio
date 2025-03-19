@@ -45,10 +45,10 @@
     "Experiences": [
       {
         "poste": "Développeur web | Laravel & Vue Js",
-        "entreprise": "NOSCORPORATE",
+        "entreprise": "NOSCORPORATE | Téletravail",
         "titre": "",
         "lien": "",
-        "lieu": "France",
+        "lieu": "Local en France",
         "date": "2022 - 2023",
         "description": [
           {
@@ -144,7 +144,7 @@
         ]
       }
     ],
-    "Projet Personnel": [
+    "Projet": [
       {
         "titre": "DIARY",
         "technologie": "VUE JS",
@@ -181,7 +181,7 @@
         "lien": ""
       }
     ],
-    "Formation et Diplôme": [
+    "Formation": [
       {
         "ecole": "UNIVERS INFORMATIQUE",
         "lieu": "Ampandrana Antananarivo 101, Madagascar",

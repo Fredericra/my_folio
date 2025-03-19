@@ -16,7 +16,7 @@ window.addEventListener('load', (event) => {
 })
 </script>
 <template>
-  <div class="bg-linear-to-b from-indigo-50 via-indigo-500 to-indigo-950 h-auto">
+  <div class="bg-linear-to-b from-purple-400 to-indigo-800 h-auto opacity-100">
     <div class="" data="page-trouve" v-if="route.name === 'Acceuil'">
       <div class="animate" :class="start ? 'scale-100' : 'scale-0'">
         <Animate :start="start" />

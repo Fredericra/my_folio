@@ -6,6 +6,15 @@
 @tailwind utilities;
 
 @layer base {
+  :root {
+    --bg-color: #f1f1f1;
+    --text-color: #212121;
+    --font-size: 16px;
+    --font-family: 'Poppins', sans-serif;
+    --indigo-950: rgb(65, 10, 104);
+    --font-weight: 400;
+    --transition: background-color 0.3s ease, color 0.3s ease;
+  }
   .head {
     display: none;
   }
@@ -45,7 +54,9 @@
   .boule6 {
     @apply w-3 h-3 bg-yellow-900 absolute left-4 top-4 rounded-full;
   }
-
+  .card {
+    @apply outline outline-amber-200;
+  }
   .btn-indigo {
     @apply bg-linear-to-b w-100 h-100 from-indigo-900 via-gray-800 to-purple-700 
     rounded-md text-white hover:shadow-lg shadow-gray-400 hover:from-purple-700 hover:to-indigo-900 hover:via-none hover:rounded-2xl transform duration-1000;

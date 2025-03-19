@@ -2,20 +2,26 @@
 import Titre from '@/Composante/Titre.vue'
 
 const props = defineProps({
-  titre: { type: String, required: true },
-  etude: { type: Object, required: true },
+  titre: {
+    type: String,
+    required: true,
+  },
+  data: {
+    type: Object,
+    required: true,
+  },
 })
 </script>
 <template>
-  <div class="">
+  <div class="my-4">
     <div class="ecran">
       <div class="col-span-4"></div>
       <div class="col-span-4">
         <div class="">
           <Titre :titre="titre" />
         </div>
-        <div class="my-8">
-          {{ etude }}
+        <div class="my-4">
+          {{ data }}
         </div>
       </div>
       <div class="col-span-4"></div>
