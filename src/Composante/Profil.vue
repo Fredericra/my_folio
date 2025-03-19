@@ -2,6 +2,9 @@
 import ProfilImage from '@/Composante/ProfilImage.vue'
 import PresantationName from '@/Composante/PresantationName.vue'
 import Redaction from '@/Composante/Redaction.vue'
+import Apropos from '@/Composante/Apropos.vue'
+
+defineProps(['redaction', 'apropos', 'sociaux'])
 </script>
 <template>
   <div>
@@ -16,8 +19,11 @@ import Redaction from '@/Composante/Redaction.vue'
             <div class="imageProfile">
               <ProfilImage />
             </div>
+            <div>
+              <Apropos :apropos="apropos" />
+            </div>
             <div class="PrecisionPresantation">
-              <Redaction />
+              <Redaction :redaction="redaction" />
             </div>
           </div>
         </div>

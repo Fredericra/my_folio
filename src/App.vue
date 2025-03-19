@@ -21,7 +21,7 @@ window.addEventListener('load', (event) => {
       <div class="animate" :class="start ? 'scale-100' : 'scale-0'">
         <Animate :start="start" />
       </div>
-      <div class="">
+      <div class="" :class="start ? 'scale-0' : 'scale-100'">
         <Acceuil />
       </div>
       <div class="page-actif"></div>

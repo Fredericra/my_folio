@@ -9,12 +9,43 @@
   .head {
     display: none;
   }
+  .titre-text {
+    font-family: 'comic sans-ms';
+    -webkit-text-stroke: 0.2px rgb(141, 141, 233);
+    text-shadow: 14px 6px 3px #000000;
+    font-size: 32px !important;
+  }
 }
 
 @layer components {
   .ecran {
     @apply grid sm:grid-cols-1 md:grid-cols-12 m-0 p-0;
   }
+  .titre {
+    @apply h-12 text-center rounded-4xl relative text-2xl;
+  }
+  .boule1 {
+    @apply w-5 h-5 bg-white absolute left-2 -top-2 rounded-full;
+  }
+  .boule2 {
+    @apply w-2 h-2 bg-purple-950 absolute -left-1 -top-3 rounded-full;
+  }
+  .boule3 {
+    @apply w-3 h-3 bg-indigo-950 absolute left-7 -top-3 rounded-full;
+  }
+  .boule4 {
+    @apply w-1 h-1 bg-gray-900 absolute -left-2 top-3 rounded-full;
+  }
+  .boule5 {
+    @apply w-2 h-2 bg-amber-700 absolute left-8 top-2 rounded-full;
+  }
+  .titre-text {
+    @apply absolute top-2 left-2 text-indigo-950 text-3xl;
+  }
+  .boule6 {
+    @apply w-3 h-3 bg-yellow-900 absolute left-4 top-4 rounded-full;
+  }
+
   .btn-indigo {
     @apply bg-linear-to-b w-100 h-100 from-indigo-900 via-gray-800 to-purple-700 
     rounded-md text-white hover:shadow-lg shadow-gray-400 hover:from-purple-700 hover:to-indigo-900 hover:via-none hover:rounded-2xl transform duration-1000;

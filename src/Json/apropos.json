@@ -1,6 +1,6 @@
 [
   {
-    "redaction": "En tant que developpeur #PHP et #JAVASCRIPT, je suis développeur passionné spécialisé dans les technologies web de #Laravel et #Vue #Js. Avec solide éxperience dans la création d'application web robustes et convivales, je m'efforce l'efficacité de #Laravel côte serveur avec la fluidite de #Vue #Js côté client. Explorez mon portfolio pour découvrir mes projets innovants et ma maîtrise dans cette domaine.",
+    "redaction": "  En tant que developpeur #PHP et #JAVASCRIPT, je suis développeur passionné spécialisé dans les technologies web de #Laravel et #Vue #Js. Avec solide éxperience dans la création d'application web robustes et convivales, je m'efforce l'efficacité de #Laravel côte serveur avec la fluidite de #Vue #Js côté client. Explorez mon portfolio pour découvrir mes projets innovants et ma maîtrise dans cette domaine.",
     "apropos": [
       {
         "Adresse": "Antananarivo 101, Madagascar",
@@ -11,30 +11,322 @@
         "icon": "fas fa-envelope"
       },
       {
-        "Téléphone": "(+261) 33 45 188 89",
-        "icon": "fas fa-phone"
+        "what": "(+261) 33 45 188 89",
+        "icon": "fab fa-whatsapp rotate"
       }
     ],
     "reseaux": [
       {
         "icon": "fab fa-facebook-f",
-        "url": "https://www.facebook.com/frederic.randriatsilavina"
+        "url": "https://www.facebook.com/frederic.randriatsilavina",
+        "image": ""
       },
       {
         "icon": "fab fa-instagram",
-        "url": "https://twitter.com/FredericRandri1"
+        "url": "https://twitter.com/FredericRandri1",
+        "image": ""
       },
       {
         "icon": "fab fa-twitter",
-        "url": "https://twitter.com/FredericRandri1"
+        "url": "https://twitter.com/FredericRandri1",
+        "image": ""
       },
       {
         "icon": "fab fa-linkedin-in",
-        "url": "https://www.linkedin.com/in/randria-tsilavina-eric/"
+        "url": "https://www.linkedin.com/in/randria-tsilavina-eric/",
+        "image": ""
       },
       {
         "icon": "fab fa-github",
-        "url": "https://github.com/Fredericra"
+        "url": "https://github.com/Fredericra",
+        "image": ""
+      }
+    ],
+    "Experiences": [
+      {
+        "poste": "Développeur web | Laravel & Vue Js",
+        "entreprise": "NOSCORPORATE",
+        "titre": "",
+        "lien": "",
+        "lieu": "France",
+        "date": "2022 - 2023",
+        "description": [
+          {
+            "title": " Développeur Laravel & Vue Js, chez #NOSCORPORATE, j'ai démontré une expertise technique solide dans création et la maintenance d'application web modernes."
+          },
+          {
+            "liste": [
+              "Ma mission est de concevoir, développé et maintenir des applications web robustes et convivales.",
+              "J'utilise mon expertise technique pour résoudre des problèmes complexes et pour améliorer l'efficacité de l'application.",
+              "Je travaille en étroite collaboration avec les équipes de conception et de développement pour garantir la qualité et la cohérence de l'application.",
+              "Toujours à la recherche d'opportunités pour développe mes compétences et rester à jour avec les dernières technologies."
+            ]
+          }
+        ]
+      },
+      {
+        "poste": "Développeur web | Laravel & Vue Js",
+        "entreprise": "Freelance",
+        "titre": "",
+        "lien": "",
+        "lieu": "Antananarivo, Madagascar",
+        "date": "",
+        "description": [
+          {
+            "title": "J'aidé de nombreux clients établir une présence en ligne impréssionnate grâce à des portofokos personnalisés et des site e-commerce."
+          },
+          {
+            "liste": [
+              "Mon objectif est de créer des solution qui répondre aux besoin spécifiques de chaque client(e)s.",
+              "Je développe des applications web performantes et sécurisées en utilisant Laravel et Vue Js."
+            ]
+          }
+        ]
+      },
+      {
+        "poste": "PHP | stage",
+        "entreprise": "UNIVERS INFORMATIQUE",
+        "titre": "",
+        "lien": "",
+        "lieu": "Ampandrana Antananarivo 101, Madagascar",
+        "date": "2021",
+        "description": [
+          {
+            "title": "Au cours de mon stage chez #UNIVERS #INFORMATIQUE, j'ai acquis une expérience précieuse dans le développement d'application web en utilisant PHP. j'ai l'opportunité d'acquérir une expérience pratique en #PHP."
+          },
+          {
+            "liste": [
+              "J'ai participé à la conception et au développement de fonctionnalités pour des applications web.",
+              "J'ai collaboré avec des développeurs expérimentés pour résoudre des problèmes techniques complexes.",
+              "J'ai effectué des tests et des débogages pour assurer la qualité et la performance des applications.",
+              "J'ai contribué à la documentation technique des projets sur lesquels j'ai travaillé."
+            ]
+          }
+        ]
+      },
+      {
+        "poste": "Développeur web | Vue Js",
+        "entreprise": "PROJET PERSONNEL",
+        "titre": "DIARY",
+        "lien": "",
+        "lieu": "Antananarivo, Madagascar",
+        "date": "",
+        "description": [
+          {
+            "title": "Ce projet intègre des fonctionnaités et de questions-réponses, le tout consstruit en utilisant le framework JavaScript #Vue #Js."
+          },
+          {
+            "liste": [
+              "Le site sera conçu offire aux utilisateurs une éxpérience logique tout en leur fournit des informations d'horoscope quotient.",
+              "Les utilsateur pourront également poser des questions aux quelles les systeme répondra",
+              "L'objectif principal de ce projet est de créer une application qui est non seulement divertissante, mais aussi éducative.",
+              "En intégrant les horoscopes, citations, question-réponses et des jeux connaissance génerale."
+            ]
+          }
+        ]
+      },
+      {
+        "poste": "Développeur web | inertia | Laravel & Vue Js",
+        "entreprise": "PROJET PERSONNEL",
+        "titre": "Scolaire dasborder | Gestion scolaire",
+        "lieu": "Antananarivo, Madagascar",
+        "lien": "",
+        "date": "",
+        "description": [
+          {
+            "title": "Ce projet vise à developper un système de gestion scolaire en ligne, utlisant le framework Laravel et avec biblioteque Javascritp #Inertia&lien"
+          },
+          {
+            "liste": [
+              "Le système sera conçu pour facilité la gestion des information scolaire, y compris les détails des étudiants, avec sytème tableaux access d'admistrateur et limité d'access d'etudiant"
+            ]
+          }
+        ]
+      }
+    ],
+    "Projet Personnel": [
+      {
+        "titre": "DIARY",
+        "technologie": "VUE JS",
+        "image": "",
+        "git": "",
+        "lien": ""
+      },
+      {
+        "titre": "Gestion scolaire",
+        "technologie": "LARAVEL & VUE JS | Inertia",
+        "image": "",
+        "git": "",
+        "lien": ""
+      },
+      {
+        "titre": "Connaître les monde",
+        "technologie": "VUE JS",
+        "image": "",
+        "git": "",
+        "lien": ""
+      },
+      {
+        "titre": "TODO LIST",
+        "technologie": "VUE JS",
+        "image": "",
+        "git": "",
+        "lien": ""
+      },
+      {
+        "titre": "DIARY",
+        "technologie": "REACT JS",
+        "git": "",
+        "image": "",
+        "lien": ""
+      }
+    ],
+    "Formation et Diplôme": [
+      {
+        "ecole": "UNIVERS INFORMATIQUE",
+        "lieu": "Ampandrana Antananarivo 101, Madagascar",
+        "date": "2019 - 2022",
+        "diplome": "BAC +3 Informatique"
+      },
+      {
+        "ecole": "UNIVERS INFORMATIQUE",
+        "date": "2022",
+        "lieu": "Ampandrana Antananarivo 101, Madagascar",
+        "diplome": "TECHNICHIEN SUPERIEUR INFORMATIQUE DE GESTION"
+      },
+      {
+        "ecole": "UNIVERS INFORMATIQUE",
+        "date": "2021-2022",
+        "lieu": "Ampandrana Antananarivo 101, Madagascar",
+        "diplome": "MANAGEMENT ET MARKETING"
+      },
+      {
+        "ecole": "LMA (Lycée Moderne Ampefiloha)",
+        "date": "2017",
+        "lieu": " Antananarivo 101, Madagascar",
+        "diplome": "BAC Série D"
+      }
+    ],
+    "Competences": [
+      {
+        "syteme": [
+          {
+            "nom": "LINUX",
+            "pourcentage": "80%"
+          },
+          {
+            "nom": "WINDOWS",
+            "pourcentage": "100%"
+          }
+        ],
+        "Programation Langage": [
+          {
+            "nom": "PHP",
+            "pourcentage": "90%",
+            "icon": "fab fa-php"
+          },
+          {
+            "nom": "JAVASCRIPT",
+            "pourcentage": "90%",
+            "icon": "fab fa-js-square"
+          },
+          {
+            "nom": "HTML",
+            "pourcentage": "95%",
+            "icon": "fab fa-html5"
+          },
+          {
+            "nom": "CSS",
+            "pourcentage": "90%",
+            "icon": "fab fa-css3-alt"
+          },
+          {
+            "nom": "PYTHON",
+            "pourcentage": "70%",
+            "icon": "fab fa-python"
+          },
+          {
+            "nom": "SQL",
+            "pourcentage": "90%",
+            "icon": "fas fa-database",
+            "img": ""
+          }
+        ],
+        "Framework": [
+          {
+            "nom": "LARAVEL",
+            "pourcentage": "90%",
+            "icon": "fab fa-laravel",
+            "img": ""
+          },
+          {
+            "nom": "VUE JS",
+            "pourcentage": "90%",
+            "icon": "fab fa-vuejs"
+          },
+          {
+            "nom": "REACT JS",
+            "pourcentage": "60%",
+            "icon": "fab fa-react",
+            "img": ""
+          },
+          {
+            "nom": "INERTIA",
+            "pourcentage": "80%",
+            "icon": "",
+            "img": ""
+          }
+        ],
+        "Outils": [
+          {
+            "nom": "VS CODE",
+            "pourcentage": "100%",
+            "icon": "",
+            "img": ""
+          },
+          {
+            "nom": "GIT",
+            "pourcentage": "90%",
+            "icon": "",
+            "img": ""
+          },
+          {
+            "nom": "COMPOSER",
+            "pourcentage": "90%",
+            "icon": "",
+            "img": ""
+          },
+          {
+            "nom": "NPM",
+            "pourcentage": "90%",
+            "icon": "",
+            "img": ""
+          },
+          {
+            "nom": "FIGMA",
+            "pourcentage": "70%",
+            "icon": "",
+            "img": ""
+          },
+          {
+            "nom": "PHOTOSHOP",
+            "pourcentage": "70%",
+            "icon": "",
+            "img": ""
+          },
+          {
+            "nom": "ILLUSTRATOR",
+            "pourcentage": "70%",
+            "icon": "",
+            "img": ""
+          },
+          {
+            "nom": "FIGMA",
+            "pourcentage": "70%",
+            "icon": "fab fa-figma",
+            "img": ""
+          }
+        ]
       }
     ]
   }
