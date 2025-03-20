@@ -65,4 +65,7 @@
     @apply bg-linear-to-b w-100 h-100 from-blue-900 via-cyan-800 to-purple-700 
     rounded-md text-white hover:shadow-lg shadow-gray-400 hover:from-purple-700 hover:to-blue-900 hover:via-none hover:rounded-2xl transform duration-1000;
   }
+  .icon {
+    @apply h-10 w-10 shadow-lg shadow-amber-950 bg-gradient-to-b to-blue-500 from-indigo-700 rounded-md outline-none border-none;
+  }
 }

@@ -17,29 +17,32 @@
     ],
     "reseaux": [
       {
-        "icon": "fab fa-facebook-f",
-        "url": "https://www.facebook.com/frederic.randriatsilavina",
-        "image": ""
-      },
-      {
-        "icon": "fab fa-instagram",
-        "url": "https://twitter.com/FredericRandri1",
-        "image": ""
-      },
-      {
-        "icon": "fab fa-twitter",
-        "url": "https://twitter.com/FredericRandri1",
-        "image": ""
+        "icon": "fab fa-github",
+        "url": "https://github.com/Fredericra",
+        "image": "./src/assets/Social/github.png",
+        "name": "fredericra",
+        "description": "Veuillez clic sur lien pour decouvrir plus pour mes projets sur Github"
       },
       {
         "icon": "fab fa-linkedin-in",
         "url": "https://www.linkedin.com/in/randria-tsilavina-eric/",
-        "image": ""
+        "image": "./src/assets/Social/linkedin.png",
+        "name": "Randria TSILAVINA",
+        "description": "Veuillez clic sur lien pour de linkedin"
       },
       {
-        "icon": "fab fa-github",
-        "url": "https://github.com/Fredericra",
-        "image": ""
+        "icon": "fas fa-envelope",
+        "url": "randriatsilavinafrederic0@gmail.com",
+        "image": "./src/assets/Social/gmail.png",
+        "name": "Frederic RANDRIATSILAVINA",
+        "description": ""
+      },
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "https://www.facebook.com/fenohasina.fredy/",
+        "image": "./src/assets/Social/facebook.png",
+        "name": "ERIC RANDRIA",
+        "description": ""
       }
     ],
     "Experiences": [

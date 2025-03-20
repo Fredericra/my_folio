@@ -7,7 +7,7 @@ const propos = defineProps({
 })
 </script>
 <template>
-  <div class="card">
+  <div class="card bg-transparent">
     <div class="card-title text-center text-[19px] text-yellow-950 my-2">
       <p class="">{{ card.poste }}</p>
     </div>

@@ -15,11 +15,11 @@ const Data = ref(Apropos[0])
 <template>
   <div>
     <Profil :redaction="Data.redaction" :apropos="Data.apropos" :sociaux="Data.reseaux" />
+    <MenuCentre :center="Data.reseaux" />
     <Experience titre="Experience" :exper="Data.Experiences" />
     <Projet titre="Projet Personnel" :projet="Data.Projet" />
     <Etude titre="Etude et Formation" :etude="Data.Formation" />
     <Competence titre="Compétences" :data="Data.Competences" />
-    <MenuCentre />
     <Footer />
   </div>
 </template>
